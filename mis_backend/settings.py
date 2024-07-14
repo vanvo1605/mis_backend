@@ -57,7 +57,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'SSIM.urls'
+ROOT_URLCONF = 'mis_backend.urls'
 
 TEMPLATES = [
     {
